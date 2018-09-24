@@ -747,4 +747,12 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### Day 98: September 12, 2018
+
+**Today's Progress**: Worked on bootstrap 4 forms/validation..
+
+**Thoughts**: Still a little confused on form validation with server side.
+
+**Link(s) to work**: twitter
+
 
