@@ -741,18 +741,80 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 ### Day 97: September 12, 2018
 
-**Today's Progress**: Worked on bootstrap 4 forms/validation..
+**Today's Progress**: started redesigning my website. Created a wireframe then got excited, skipped the prototype and started coding the site.
 
-**Thoughts**: Still a little confused on form validation with server side.
-
-**Link(s) to work**: twitter
-
-### Day 98: September 12, 2018
-
-**Today's Progress**: Worked on bootstrap 4 forms/validation..
-
-**Thoughts**: Still a little confused on form validation with server side.
+**Thoughts**: Feel like a have a better understanding of design.
 
 **Link(s) to work**: twitter
 
+### Day 98: September 13, 2018
 
+**Today's Progress**: Finished new website functionality, now I just need add some pizazz.
+
+**Thoughts**: Had fun learning adobe XD again.
+
+**Link(s) to work**: twitter
+
+### Day 99: September 14, 2018
+
+**Today's Progress**: did the google chrome dev tools audit and followed the guide to make my site a progressive web app. New design Will be going live tomorrow!
+
+**Thoughts**: chrome dev tools.
+
+**Link(s) to work**: twitter
+
+### Day 100: September 15, 2018
+
+**Today's Progress**: Got my new site up today.
+
+**Thoughts**: Looks better than before.
+
+**Link(s) to work**: andresmonline.com
+
+### Day 101: September 17, 2018
+
+**Today's Progress**: put a logo on my site’s tab on chrome and added a splash screen on safari when added to home screen. Still trying to figure out how to get it to work on chrome app for iPhone.
+
+**Thoughts**: Small improvements.
+
+**Link(s) to work**: andresmonline.com
+
+### Day 102: September 18, 2018
+
+**Today's Progress**: Added google analytics to my site and optimized some images.
+
+**Thoughts**: Easy.
+
+**Link(s) to work**: twitter
+
+### Day 103: September 19, 2018
+
+**Today's Progress**: organized my GitHub repo today and read about css architecture.
+
+**Thoughts**: Sass is neat when you understand it better.
+
+**Link(s) to work**: twitter
+
+### Day 104: September 20, 2018
+
+**Today's Progress**: looked at the CSS clip path property to make that cool diagonal design.
+
+**Thoughts**: Going to use the diagonal design on my first website by the end of september.
+
+**Link(s) to work**: dsmtrumpetguy.com
+
+### Day 105: September 22, 2018
+
+**Today's Progress**: started structuring a project with CSS BEM methodology.
+
+**Thoughts**: Hmm.
+
+**Link(s) to work**: advanced-css/natours.
+
+### Day 106: September 23, 2018
+
+**Today's Progress**: Took a refresher course on google analytics and got my google analytics certificate.
+
+**Thoughts**: Neat.
+
+**Link(s) to work**: linkedin Profile
