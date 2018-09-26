@@ -819,4 +819,18 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: linkedin Profile
 
-test
+### Day 107: September 24, 2018
+
+**Today's Progress**: Learned about the fetch api.
+
+**Thoughts**: Neat.
+
+**Link(s) to work**: twitter
+
+### Day 108: September 25, 2018
+
+**Today's Progress**: Learned to customize bootstrap sass files.
+
+**Thoughts**: double neat.
+
+**Link(s) to work**: TBD
