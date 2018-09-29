@@ -849,4 +849,12 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Thoughts**: I wonder how i send it to a server.
 
-**Link(s) to work**: Twitter
+**Link(s) to work**: Twitter 
+
+### Day 111: September 29, 2018
+
+**Today's Progress**: learned how to set up mvc architecture with webpack, babel, and javascript..
+
+**Thoughts**: I know way more than I did when I started.
+
+**Link(s) to work**: javascript/forkify
