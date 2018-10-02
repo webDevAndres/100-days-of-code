@@ -849,7 +849,7 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Thoughts**: I wonder how i send it to a server.
 
-**Link(s) to work**: Twitter 
+**Link(s) to work**: Twitter
 
 ### Day 111: September 29, 2018
 
@@ -857,4 +857,20 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Thoughts**: I know way more than I did when I started.
 
-**Link(s) to work**: javascript/forkify
+**Link(s) to work**: twitter
+
+### Day 112: September 30, 2018
+
+**Today's Progress**: Read about design hierarchy on tuts+.
+
+**Thoughts**: Now I know what it is called when using colors and large text to draw attention to parts of the webpage.
+
+**Link(s) to work**: twitter
+
+### Day 113 - 114: October 1 - 2, 2018
+
+**Today's Progress**: On the last section of the complete javascript course 2018 by Jonas Schmedtmann on udemy.
+
+**Thoughts**: Learned so much useful information here!
+
+**Link(s) to work**: twitter
