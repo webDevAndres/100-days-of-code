@@ -874,3 +874,60 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 **Thoughts**: Learned so much useful information here!
 
 **Link(s) to work**: twitter
+
+### Day 115: October 3, 2018
+
+**Today's Progress**: learned that when webpack reloads my page with each change it counts as an api call.
+
+**Thoughts**: fixed this by adding an event listener to my call.
+
+**Link(s) to work**: twitter
+
+### Day 116: October 4, 2018
+
+**Today's Progress**: taking a small break to look into making wordpress themes.
+
+**Thoughts**: Once I feel good about about JavaScript I'm going to convert my websites to wordpress for fun.
+
+**Link(s) to work**: twitter
+
+### Day 117: October 5, 2018
+
+**Today's Progress**: learned not to store api keys on the client side.
+
+**Thoughts**: I should learn how to tie in javascript with php.
+
+**Link(s) to work**: twitter
+
+### Day 118: October 6, 2018
+
+**Today's Progress**: Started building the model for displaying a single recipe.
+
+**Thoughts**: not to bad, it is going to take awhile to finish this part.
+
+**Link(s) to work**: twitter
+
+### Day 119: 8, 2018
+
+**Today's Progress**: still working on th model for displaying a single recipe. Today i was able to get the recipe id from the url
+
+**Thoughts**: I keep forgetting that the api I use to get the recipe only allows for 50 calls. >.<
+
+**Link(s) to work**: twitter
+
+### Day 120: October 10, 2018
+
+**Today's Progress**: Learned how to adjust recipe serving sizes.
+
+**Thoughts**: Its a little complicated to plan for all occasions.
+
+**Link(s) to work**: twitter
+
+
+### Day 121: October 11, 2018
+
+**Today's Progress**: On the last section of the complete javascript course 2018 by Jonas Schmedtmann on udemy.
+
+**Thoughts**: Learned so much useful information here!
+
+**Link(s) to work**: twitter
