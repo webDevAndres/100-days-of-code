@@ -926,8 +926,8 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 ### Day 121: October 11, 2018
 
-**Today's Progress**: On the last section of the complete javascript course 2018 by Jonas Schmedtmann on udemy.
+**Today's Progress**: Started on creating the list view and list model to allow for the creation of a shopping list.
 
-**Thoughts**: Learned so much useful information here!
+**Thoughts**: kinda geeking out at how cool this is.
 
 **Link(s) to work**: twitter
