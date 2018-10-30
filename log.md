@@ -931,3 +931,101 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 **Thoughts**: kinda geeking out at how cool this is.
 
 **Link(s) to work**: twitter
+
+### R2 Day 22: October 13, 2018
+
+**Today's Progress**: Today I worked on my adobe xd skills from a udemy course.
+
+**Thoughts**: pretty easy.
+
+**Link(s) to work**: twitter
+
+### R2 Day 23: October 14, 2018
+
+**Today's Progress**: Today I got my course completion certificate for "Web UI UX Design using Adobe XD - Adobe Experience Design"
+
+**Thoughts**: pretty easy.
+
+**Link(s) to work**: twitter
+
+### R2 Day 24: October 15, 2018
+
+**Today's Progress**: Redesigning my first paid site (2016-2017).
+
+**Thoughts**: getting better at design.
+
+**Link(s) to work**: twitter
+
+### R2 Day 25: October 16, 2018
+
+**Today's Progress**: Today I'm attending a wordpress workshop from wpomaha. Going over php basics today.
+
+**Thoughts**: mostly review, I know the stuff.
+
+**Link(s) to work**: twitter
+
+### R2 Day 26: October 17, 2018
+
+**Today's Progress**: Went back to redesigning, here is my progress so far. To finish this design I'm going to have to learn Illustrator and brush up on my photoshop skills.
+
+**Thoughts**: getting better at design.
+
+**Link(s) to work**: twitter
+
+### R2 Day 27-28: October 19-20, 2018
+
+**Today's Progress**: Almost done with my wireframe. Then I'll finally began coding!
+
+**Thoughts**: getting better at photoshop, its easy I just have to look up how to do it.
+
+**Link(s) to work**: twitter
+
+### R2 Day 29: October 22, 2018
+
+**Today's Progress**: continuing working on refining my wireframe. I did some slight color adjust adjustments, and positioning of elements
+
+**Thoughts**: still this --> getting better at photoshop, its easy I just have to look up how to do it.
+
+**Link(s) to work**: twitter
+
+### R2 Day 30: October 23, 2018
+
+**Today's Progress**: went to the second workshop from wpomaha. Some of it was review for me but I did learn about Wordpress hooks and short codes.
+
+**Thoughts**: Found todays workshop interesting, Wordpress development doesn't sound/look to difficult.
+
+**Link(s) to work**: twitter
+
+### R2 Day 31: October 25, 2018
+
+**Today's Progress**: Today I designed a poster for a contest from warframe.
+
+**Thoughts**: time to put my photoshop skills to the test!
+
+**Link(s) to work**: twitter
+
+### R2 Day 32: October 27, 2018
+
+**Today's Progress**: started to build the new website design. Took up a lot of time setting up my dev environment.
+
+**Thoughts**: setting up the dev environment is the most time consuming thing, ha ha haaaaa.
+
+**Link(s) to work**: twitter
+
+### R2 Day 33: October 28, 2018
+
+**Today's Progress**: I decided to add react to my project. So, I spent today learning react and figuring out how to add react to a project with webpack.
+
+**Thoughts**: Those months I spent getting better at javascript really paid off, when I tried learning react a year ago with basic javascript knowledge it looked
+    like a foreign language, now I'm like I know what that is, okay I understand what you do.
+
+**Link(s) to work**: twitter
+
+### R2 Day 34: October 29, 2018
+
+**Today's Progress**: Breezing through the complete react web developer course by Andrew mead on udemy It really helped that I spent a couple months strengthening my Javascript skills.
+
+**Thoughts**: Those months I spent getting better at javascript really paid off, when I tried learning react a year ago with basic javascript knowledge it looked
+    like a foreign language, now I'm like I know what that is, okay I understand what you do.
+
+**Link(s) to work**: twitter
