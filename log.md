@@ -1029,3 +1029,14 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
     like a foreign language, now I'm like I know what that is, okay I understand what you do.
 
 **Link(s) to work**: twitter
+
+### R2 Day 35-36: October 30-31, 2018
+
+**Today's Progress**: Yesterday I attended the last workshop for php/wordpress plugin dev. Learned how to create a plugin and use the wordpress codex. Today, I learned about react components, and state.
+
+
+**Thoughts**: I get it now, I get why react is popular. Managing state is a breeze. I need to build something in react soon.
+
+**Link(s) to work**: twitter
+
+
