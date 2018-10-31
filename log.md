@@ -1034,8 +1034,7 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Today's Progress**: Yesterday I attended the last workshop for php/wordpress plugin dev. Learned how to create a plugin and use the wordpress codex. Today, I learned about react components, and state.
 
-
-**Thoughts**: I get it now, I get why react is popular. Managing state is a breeze. I need to build something in react soon.
+**Thoughts**: I get it now, I get why react is popular. Managing state is a breeze. I need to build something in react soon. No longer will I have to copy and past the navbars and header for my pages.
 
 **Link(s) to work**: twitter
 
