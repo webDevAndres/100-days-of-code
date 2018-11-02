@@ -1038,4 +1038,12 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 37: November 1, 2018
+
+**Today's Progress**: Looked into adobe Coldfusion, the syntax doesn't look to hard. Installing it correctly was another story.
+
+**Thoughts**: I need to find a good tutorial on using Coldfusion.
+
+**Link(s) to work**: twitter
+
 
