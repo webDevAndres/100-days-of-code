@@ -1046,4 +1046,12 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 38: November 2, 2018
+
+**Today's Progress**: Today I learned how to create react stateless components and learned about Wordpress custom queries.
+
+**Thoughts**: Wordpress is going smoothly. React has a bit of a learning curve.
+
+**Link(s) to work**: twitter
+
 
