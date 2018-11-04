@@ -1054,4 +1054,12 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 39-40: November 3-4, 2018
+
+**Today's Progress**: Still working on react stateless functional components. I also learned how to set up gulp/webpack for a Wordpress site.
+
+**Thoughts**: I think I am becoming a fan of React, I am really excited to finish the react course at udemy and build a few websites with what I have learned.
+
+**Link(s) to work**: twitter
+
 
