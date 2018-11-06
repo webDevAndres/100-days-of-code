@@ -1063,3 +1063,14 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 **Link(s) to work**: twitter
 
 
+
+### R2 Day 41: November 5, 2018
+
+**Today's Progress**: got a lil busy today, but I was able to work on separating my react app into components.
+
+**Thoughts**: Practice.Practice.Practice
+
+**Link(s) to work**: twitter
+
+
+
