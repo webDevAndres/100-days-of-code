@@ -1072,5 +1072,32 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 42: November 6, 2018
+
+**Today's Progress**: Yesterday was actually day 41, keeping track is it’s own challenge. Anyway, today I got react modal to work and continued on Wordpress custom post types. The more Wordpress I learn the more I like it. 
+
+**Thoughts**: Practice.Practice.Practice
+
+**Link(s) to work**: twitter
+
+
+### R2 Day 43: November 9, 2018started working with elementor on Wordpress. Makes page creation so much easier!
+
+**Today's Progress**: learned how to add styles to a react app when using webpack.
+
+**Thoughts**: Got a little busy this week with back to back job interviews.
+
+**Link(s) to work**: twitter
+
+
+### R2 Day 44: November 10, 2018 
+
+**Today's Progress**: started working with elementor on Wordpress. Makes page creation so much easier!
+
+
+**Thoughts**: Got a little busy this week with back to back job interviews.
+
+**Link(s) to work**: twitter
+
 
 
