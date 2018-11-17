@@ -1099,5 +1099,41 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 45: November 11, 2018 
+
+**Today's Progress**: Started learning about react router today.
+
+
+**Thoughts**: Not the most complicated topic. The hardest part would be remembering the terminology.
+
+**Link(s) to work**: twitter
+
+### R2 Day 46: November 12, 2018 
+
+**Today's Progress**: continued working with react router and its links and navlinks and routes.
+
+
+**Thoughts**: I wonder how this would work on a real world application. I'll find out soon enough!
+
+**Link(s) to work**: twitter
+
+### R2 Day 47: November 13, 2018 
+
+**Today's Progress**: started remaking one of my old projects with react. Everything was going smoothly until I needed to access a database.
+
+
+**Thoughts**: I need to do more research to figure out how everything fits together.
+
+**Link(s) to work**: twitter
+
+### R2 Day 48: November 14, 2018 
+
+**Today's Progress**: spent half my time doing some ux research courses on LinkedIn and figuring out how to get images from a folder on my server to show up. I think I’ll need to use php to put them in an array and then loop through them.
+
+
+**Thoughts**: There is so much to learn...neat.
+
+**Link(s) to work**: twitter
+
 
 
