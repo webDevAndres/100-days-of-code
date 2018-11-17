@@ -1135,5 +1135,11 @@ Didn't get to code today as it was my turn to go shopping and make dinner and ot
 
 **Link(s) to work**: twitter
 
+### R2 Day 49-52: November 15 - November 17, 2018 
+
+**Today's Progress**: spent half my time doing some ux research courses on LinkedIn and figuring out how to get images from a folder on my server to show up. I think I’ll need to use php to put them in an array and then loop through them.
 
 
+**Thoughts**: There is so much to learn...neat.
+
+**Link(s) to work**: twitter
